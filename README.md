@@ -11,7 +11,7 @@ Software Engineer | AI & Backend Developer | Android Developer
 </h3>
 
 <p align="center">
-Passionate about building scalable software, AI-powered applications, backend systems, and intelligent multi-agent solutions.
+Software Engineering enthusiast with hands-on experience in AI applications, backend development, Android development, and full-stack project
 </p>
 
 <p align="center">
